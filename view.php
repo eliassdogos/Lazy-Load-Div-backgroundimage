@@ -1,0 +1,1 @@
+<div class="lazybg" data-pic="background-image: url(finalimage.png);" style="background-image: url(yourpath/loading.gif);"></div
